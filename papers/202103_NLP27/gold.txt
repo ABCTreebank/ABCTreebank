@@ -1,0 +1,223 @@
+6_book_excerpt-10;JP その 夕方 、 宿屋 で 地図 を ひろげ た サウード は 、 眉 を ひそめ て 、 つぶやき まし た 。
+3_book_excerpt-18;JP 私 は 警察署長 だっ た 父 の 転勤 で この 町 に 移っ て き た 。
+7_book_excerpt-18;JP 私 は 都会育ち だっ た し 、 長い 戦争 の ため に 泳ぎ を おぼえる チャンス も なかっ た 。
+3_book_excerpt-24;JP 機器選定 は コネクター から 制御盤 の 選定 まで 特殊 だ 。
+9_book_excerpt-3;JP この 時期 に 夜 眠り に つく と 、 脳 の なか の とぎすまさ れ た ある 部分 が 起き て い て 、 背骨 が 伸びる 瞬間 を 感じ取り ます 。
+3_book_excerpt-44;JP 京都 に 、 天皇 の 侍医 を し て い た 山脇東洋 という 医学 の 大家 が い た 。
+4_book_excerpt-48;JP 二十数 年 前 と 変わっ て い ない 風景 が 窓 の 外 を 流れ て 行く 。
+19_book_excerpt-52;JP 英雄 を 襲う の は 、 黒々 と し た 死 の 闇 で ある 。
+22_book_excerpt-52;JP 鉄 の 時代 に き た 人間 は 昇天 する こと が でき ない 。
+34_book_excerpt-52;JP 人間 の 魂 は 、 もう 、 死 とともに 肉体 を 離れ て 天上 へ 飛翔 せ ず 、 地下 の 闇 の 国 へ 行く という 定め で あっ た 。
+6_book_excerpt-9;JP あご伯父 は 、 ドングリ を 埋め て いる とき から 、 そう 言っ て くれ て い た 。
+7_dict_vv-lexicon;20150226;6-1-1;Vs;呆れ果てる.01;JP 父親 は 息子 の 態度 に 呆れ果て た ．
+165_dict_vv-lexicon;20150226;137-1-1;VV;挑み掛かる.01;JP ライオン が 獲物 に 挑みかかっ た ．
+185_dict_vv-lexicon;20150226;156-1-1;V;入れ揚げる.01;JP 彼 は 最近 、 ある バー の ホステス に 入れ揚げ て いる ．
+408_dict_vv-lexicon;20150226;325-1-1;Vs;追い払う.01;JP 彼 は ハエ を 家 の 外 へ 追い払っ た ．
+1004_dict_vv-lexicon;20150226;825-1-1;Vs;組み替える.01;JP コーチ は 、 より 強い 体制 に チーム を 組み替え た ．
+1077_dict_vv-lexicon;20150226;883-1-1;VV;漕ぎ上がる.01;JP 彼ら は 、 カヌー で 川 を 上流 へ 漕ぎ上がっ た ．
+1583_dict_vv-lexicon;20150226;1320-2-1;pV;立て込む.02;JP 先生 は 用事 が 立て込ん で 忙しい ．
+1715_dict_vv-lexicon;20150226;1430-1-1;VV;付け加わる.01;JP この カメラ に 新しい 機能 が 付け加わっ た ．
+1886_dict_vv-lexicon;20150226;1575-1-1;VV;飛び込む.01;JP 彼 は プール に 飛び込ん だ ．
+2092_dict_vv-lexicon;20150226;1748-1-1;Vs;並べ立てる.01;JP 彼 は 私 の 欠点 を 並べ立て た ．
+2430_dict_vv-lexicon;20150226;2018-1-1;VV;跳ね上がる.01;JP 海底 の プレート が 跳ね上がっ て 、 地震 を 起こし た ．
+2601_dict_vv-lexicon;20150226;2123-1-2;VV;引き回す.01;JP 罪人 は 市中 を 引き回さ れ た ．
+2832_dict_vv-lexicon;20150226;2275-1-1;Vs;振り立てる.01;JP 猫 が しっぽ を 振り立て て 歩い て 行っ た ．
+2846_dict_vv-lexicon;20150226;2285-1-1;VV;振り乱す.01;JP 女 は 、 髪 を 振り乱し て 、 男 の 後 を 追い掛け て 行っ た ．
+2984_dict_vv-lexicon;20150226;2394-1-1;VV;祭り上げる.01;JP 彼 は 町 の 英雄 として 祭り上げ られ た ．
+3215_dict_vv-lexicon;20150226;2590-1-1;Vs;漏れ出す.01;JP 原子力発電所 から 汚染水 が 漏れ出し て いる ．
+3222_dict_vv-lexicon;20150226;2596-1-1;VV;焼き付ける.01;JP その 和菓子店 の どら焼き は 、 表面 に 菊 の 模様 を 焼き付け て いる ．
+40_fiction_DICK-1952;JP キャプテン は 、 威厳 は ある が 無表情 な 様子 で 、 廊下 を 大股 で 歩い て 行っ た 。
+65_fiction_DICK-1952;JP 彼女 は 顔 から 黒髪 を 掻き上げ た 。
+74_fiction_DICK-1952;JP ナシャ は 呟い た 。
+237_fiction_DICK-1952;JP ナシャ は ドール を 見上げ た 。
+240_fiction_DICK-1952;JP ナシャ は ドール の 腕 に 優しく 触れ た 。
+349_fiction_DICK-1952;JP ドール は ゆっくり と 携帯武器 を はずし た 。
+383_fiction_DICK-1952;JP 大砲 は 静止 し 、 再び 台 の 上 で 穏やか に 、 ゆっくり と 回転 し 始め た 。
+487_fiction_DICK-1952;JP ドール は 作業 を 終える と 、 汗 で ぐっしょり に なっ て い た 。
+491_fiction_DICK-1952;JP ナシャ は 手提げランプ の スイッチ を 入れ て 、 階段 を 照らし た 。
+496_fiction_DICK-1952;JP テンス は 階段 を 降り 始め た 。
+546_fiction_DICK-1952;JP 少年 は まるで 生き て いる よう で 、 手提げランプ の 光 に 照らし出さ れ た 彼ら の 方 へ 、 今 に も 向かっ て き そう な ほど で あっ た 。
+594_fiction_DICK-1952;JP それ は 、 状態 は 維持 さ れ ない ので 、 朽ち 果てる まで 、 ここ に あり 続ける だろう 。
+712_fiction_DICK-1952;JP その カート は 都市 へ と 方向転換 し た 。
+713_fiction_DICK-1952;JP 次 に 来 た カート は 最初 の カート の 背後 に 現れ た 。
+15_fiction_POTTER-1902;JP フロプシー 、 モップシー と コットンテイル は 、 とても 良い 子ども達 だっ た ので 、 黒いちご を 摘み に 小道 を 降り て 行き まし た 。
+16_fiction_POTTER-1902;JP でも 、 ピーター は 、 とても いたずら好き だっ た ので 、 一目散 に マクレガーさん の 庭 へ と 走っ て 行き 、 門 の 下 から 中 に 潜り込み まし た 。
+30_fiction_POTTER-1902;JP 後 に は ピーター の ジャケット だけ が 残り まし た 。
+58_fiction_POTTER-1902;JP というのも ピーター は いとこ の 小さな ベンジャミンバニー から 猫 という 生き物 について 聞い て い た から です 。
+68_fiction_POTTER-1902;JP ピーター は 門 の 下 に 滑り込み 、 そして ついに 庭 から 脱出 し 、 安全 な 森 へ と 逃げ込み まし た 。
+75_fiction_POTTER-1902;JP かわいそう に 、 その 夜 、 ピーター の 具合 が あまり よく あり ませ ん でし た 。
+3_fiction_SAINT-EXUPERY-1943;JP そこ に は 猛獣 を 呑み込ん で いる ボア という 大蛇 の 絵 が 描か れ て い た 。
+8_fiction_SAINT-EXUPERY-1943;JP そこで 、 僕 は ジャングル で の 冒険 について 、 よく 考え て み た 。
+11_fiction_SAINT-EXUPERY-1943;JP それ は こんな 感じ だ 。
+73_fiction_SAINT-EXUPERY-1943;JP 不思議 な こと が 、 あまり に も 圧倒的 過ぎ たら 、 かえって 人 は 逆らわ ない もの だ 。
+81_fiction_SAINT-EXUPERY-1943;JP それ は ボア の 外側 の 絵 だ 。
+99_fiction_SAINT-EXUPERY-1943;JP これ は 羊 じゃ なく て 、 牡羊 だ よ 。
+15_news_KAHOKU_303;K201401010W5XP4XX00001;JP 昔 から 東北人 は 、 厳しい 自然 と 共存 する ため 、 粘り強く 工夫 を し て き た 。
+43_news_KAHOKU_33;K201402110A0T30XX00001;JP 一連 の 活動 は 、 意欲 ある 住民 を むすび塾 が 後押し し た 成果 で も ある 。
+84_news_KAHOKU_34;K201404110A0T30XX00001;JP 近所 の 人 に 夫 は 松ケ浜小 に 避難 し た と 聞き 、 早速 移動 し 、 無事 を 確認 し まし た 。
+62_news_KAHOKU_37;K201403080A0T10XX00001;JP 避難所 に なら なかっ た ため 、 直後 から 建物 を 丸ごと 仮校舎 に 使え た 。
+92_news_KAHOKU_46;K201403110A0T30XX00001;JP 国道 の 低い 場所 を 越え た 津波 が 、 道路 に 沿っ て 回り込ん で き た の でしょ う 。
+74_news_KAHOKU_74;K201401110A0T20XX00001;JP 今回 、 被災 し た 住民同士 が 直接 交流 する 機会 を 設ける こと が でき た の は 、 画期的 だ と 思う 」
+88_news_KAHOKU_84;K201403030A0T10XX00001;JP 「 全体的 に は 復旧 が 進ん で いる が 、 地域間 で 格差 が ある 。
+39_news_KAHOKU_95;K201407110A0T30XX00001;JP 訓練 を 重ねる の に伴い 、 訓練慣れ する 住民 も いる 。
+2_nonfiction_ANC__110CYL067;JP グッドウィル へ の あなた の 寄付 は 、 あなた が 知っ て いる 以上 の 意味 が あり ます 。
+13_nonfiction_ANC__110CYL067;JP 生活保護費受給者 を 納税者 に 変える こと は 理 に かなっ て いる から です 。
+17_nonfiction_ANC__110CYL067;JP 私 は 今 、 生活保護 を 全く 受給 し て い ませ ん 。
+28_nonfiction_ANC__110CYL067;JP 人 に 魚 を 獲る こと を 教えれ ば 、 その 人 は 一生 食べる こと に 困ら ない 。
+30_nonfiction_ANC__110CYL067;JP 私 は ただ 仕事 が 欲しかっ た の です 。
+38_nonfiction_ANC__110CYL067;JP 毎年 、 私たち は 大きな 障害 に 直面 し て いる 何千 人 も の 人々 を 支援 し て い ます 。
+4_nonfiction_IBM-1401;JP 1401 など の 最新 の 高速コンピュータ は 、 素晴らしい 電子機器 です が 、 データ処理システム の 一部分 に 過ぎ ませ ん 。
+13_nonfiction_IBM-1401;JP プログラマー によって 書か れ た アプリケーション に関する 説明 は 、 内部 で 機械コード化 さ れ た 言語 に 翻訳 さ れ て い ます 。
+17_nonfiction_IBM-1401;JP プログラム内蔵方式コンピューター は 、 自身 の 命令 を 磁気形式 で 記憶 し 、 それら の 命令 に 従い 、 割り当て られ た アプリケーション を 完了 さ せる こと が できる もの です 。
+41_nonfiction_IBM-1401;JP コボル は 、 商用アプリケーション の ため の 問題指向プログラミング言語 です 。
+46_nonfiction_IBM-1401;JP これら は 、 インストール など の 日常操作 の 多く を 実行 する ため の 事前作成 さ れ た 指示プログラム です 。
+25_nonfiction_What_NINJAL_aspires_to;JP 2016 年 以降 も 続刊 が 予定 さ れ て い ます 。
+7_nonfiction_greetings;JP この 中 に は 若手研究者 に対して 様々 な 訓練 の 機会 を 与える こと も 含ま れる でしょう 。
+77_ted_talk_10;SheaHembrey_2011;JP 僕 の 母 が 演じ て くれ まし た
+99_ted_talk_10;SheaHembrey_2011;JP そして そこ に ある もの だけ を 使っ て 作業用 の ささやか な 住み込みアトリエ を 作り ます
+25_ted_talk_11;Do_schools_kill_creativity;JP 教育 という の は 深い 問題 です から ね 。
+152_ted_talk_11;Do_schools_kill_creativity;JP 教授 という の は とっても 興味深い 生き物 だ
+225_ted_talk_11;Do_schools_kill_creativity;JP その 過程 について 色々 な 人 に インタビュー し まし た
+13_ted_talk_2;JessaGamble_2010G;JP そして 私たち に も この 能力 は あり ます
+100_ted_talk_5;KatherineFulton_2007;JP 希望 に 満ち た 未来 を つくりあげ て いけ ばよい の です
+15_ted_talk_7;HansRosling_2010S;12;JP これ が 当時 の スウェーデン の 経済レベル です
+46_ted_talk_7;HansRosling_2010S;36;JP これ が 2010 年 における 私たち の 新しい 世界 です
+73_ted_talk_7;HansRosling_2010S;56;JP なぜなら それ が 継続 し た 人口 の 増加 に つながる から です
+109_ted_talk_7;HansRosling_2010S;79;JP 正しい 手 を 打っ て いれ ば 90億 で 人口 は 留ま れ ます
+1_ted_talk_8;StefanaBroadbent_2009G;JP 人 と 所属組織 の 間 に は 現在 目 に は 見え ない 緊張感 が あり ます
+72_ted_talk_8;StefanaBroadbent_2009G;JP そういった 点 が 重視 さ れ て き まし た
+103_ted_talk_8;StefanaBroadbent_2009G;JP しかし 、 こういった アクセス を 禁止 する 機関 も 多々 あり ます
+172_ted_talk_9;AnthonyAtala_2009P;JP これら は 実は 尿 を つくり出し て いる の です
+56_textbook_TANAKA;006_ID_131186;JP 彼ら が 仲良く やっ て いけ ない 予感 が する 。
+72_textbook_TANAKA;006_ID_70678;JP 私たち が 出かける とき 、 家 は きちんと し て い た 。
+126_textbook_TANAKA;006_ID_135699;JP 彼女 の 手 は じっと し て い ない 。
+138_textbook_TANAKA;006_ID_80050;JP 私 は 英語 で 手紙 を 書き 終え た 。
+183_textbook_TANAKA;006_ID_17256;JP この 部屋 は 日当たり が 良く ない 。
+244_textbook_TANAKA;006_ID_53279;JP 我々 は 綿 の代わりに ピーナッツ を 植え た 。
+252_textbook_TANAKA;006_ID_125885;JP 彼 は 深い ため息 を つい た 。
+270_textbook_TANAKA;006_ID_115452;JP 彼 は さまざま な 経験 を し た 。
+303_textbook_TANAKA;006_ID_65229;JP 今月 末 まで に 、 あなた は この 仕事 を 終え なければならない 。
+369_textbook_TANAKA;006_ID_84405;JP 私 は 彼 に は 我慢 が なり ませ ん でし た 。
+378_textbook_TANAKA;006_ID_11205;JP キャロル は たった今 ホテル に 戻っ て き た 。
+448_textbook_TANAKA;006_ID_47754;JP 医者 は 彼 に 休養 する よう に 命令 し た 。
+472_textbook_TANAKA;006_ID_5889;JP あの 写し は 原本 と 違う 。
+644_textbook_TANAKA;006_ID_18627;JP これ は あなた の 口 に 合わ ない かもしれない 。
+680_textbook_TANAKA;006_ID_153660;JP 話 の 焦点 は 内容 に 置か れ て いる 。
+718_textbook_TANAKA;006_ID_117393;JP 彼 は テニス の 選手 に なり たい 。
+743_textbook_TANAKA;006_ID_84309;JP 私 は 彼 と 話す の を 楽しん だ 。
+756_textbook_TANAKA;006_ID_25518;JP その 家 は 我々 から 光 を 奪っ た 。
+762_textbook_TANAKA;006_ID_105172;JP 動物 の 子供 は すぐ に 新しい 環境 に 順応 する 。
+819_textbook_TANAKA;006_ID_120906;JP 彼 は 休暇 を 利用 し て ニューヨーク に 旅行 に 行く 途中 、 旧友 の 所 に ちょっと 立ち寄っ た 。
+852_textbook_TANAKA;006_ID_32738;JP それ は 私 の 信念 に あわ ない 。
+881_textbook_TANAKA;006_ID_134340;JP 彼女 が それ を し た はず が ない 。
+158_textbook_djg_advanced;page_170;JP この 試験 は 言わば アメリカ の 大学 に 留学 する 際 の TOEFL に 当たる 。
+181_textbook_djg_advanced;page_193;JP タンパク質 は アミノ酸 から なっ て いる 。
+209_textbook_djg_advanced;page_233;JP 彼 は アリバイ が 成立 し なかっ た こと から 犯行 の 嫌疑 が かかっ た 。
+220_textbook_djg_advanced;page_246;JP 彼女 は 日本語 で 講演 も できる 。
+236_textbook_djg_advanced;page_263;JP 夜 遅く 人 に 電話 を かける もの で は ない 。
+389_textbook_djg_advanced;page_447;JP オリンピック が １６ 日間 にわたって 開か れ た 。
+580_textbook_djg_advanced;page_661;JP あんな いい 店 が なくなっ た と は 残念 だ 。
+1_textbook_djg_basic;page_65;JP 私 は 良子 に 花 を あげ まし た 。
+3_textbook_djg_basic;page_65;JP 僕 は 春子さん を なぐさめ て あげ まし た 。
+19_textbook_djg_basic;page_87;JP 先生 に 聞け ば よかっ た です 。
+86_textbook_djg_basic;page_179;JP 来年 日本 へ 行く から 日本語 を 勉強 し て い ます 。
+93_textbook_djg_basic;page_187;JP 私 は 言わ なかっ た けれども トム は 知っ て い まし た 。
+129_textbook_djg_basic;page_232;JP 駅 の 前 に たばこ屋 が あり ます 。
+136_textbook_djg_basic;page_237;JP テレビ が つい た まま に なっ て い ます 。
+152_textbook_djg_basic;page_251;JP ナンシー は 私 の 話 を 聞き も し ませ ん 。
+175_textbook_djg_basic;page_275;JP 図書館 は 静か で なければなりません 。
+233_textbook_djg_basic;page_357;JP あした パーティー を する ので ビール を 買っ て おき まし た 。
+262_textbook_djg_basic;page_406;JP 日本 の こと を 知っ て い ます か 。
+266_textbook_djg_basic;page_410;JP 雨 が 降り そう です 。
+284_textbook_djg_basic;page_426;JP 私 は ステーキ が 好き です 。
+358_textbook_djg_basic;page_512;JP 前田さん は アメリカ に いる うち に 英語 が 上手 に なり まし た 。
+400_textbook_djg_basic;page_569;JP 私 は 日本歴史 を 読も う と 思い ます 。
+13_textbook_djg_gram_terms;b_page_2;JP 窓 が 開け て ある 。
+145_textbook_djg_gram_terms;1b_page_29;JP 音楽 が 好き な 私 は 一 日 中 音楽 を 聞い て いる 。
+149_textbook_djg_gram_terms;4aii_page_31;JP 英語 が 勉強 し たかっ た の だ 。
+238_textbook_djg_intermediate;page_254;JP 病気 の 山田先生 に代わって 、 鈴木先生 が 教え て 下さっ た 。
+270_textbook_djg_intermediate;page_293;JP この 研究所 は 文部省 によって 設立 さ れ た 。
+442_textbook_djg_intermediate;page_500;JP 先生 に 相談 し た ところ 、 ぜひ 大学院 に 行く よう 勧め られ た 。
+489_textbook_djg_intermediate;page_561;JP 彼 は まだ 若い から 、 考え が 浅い 。
+86_textbook_kisonihongo;page_37;JP おかげ で 助かり まし た 。
+124_textbook_kisonihongo;page_46;JP もし 皆 が 反対 する なら 、 考えなおさ なければならない 。
+126_textbook_kisonihongo;page_47;JP 当然 、 よい 結果 は 出 なかっ た 。
+141_textbook_kisonihongo;page_51;JP 用事 は すぐ 終わり ます から 、 ここ で 待っ て い て 下さい 。
+164_textbook_kisonihongo;page_56;JP 校則 は 、 あまり 細か な 規則 を 立て ない ほう が よい 。
+192_textbook_kisonihongo;page_75;JP 関係者 は 事件 の 発覚 を 恐れ た 。
+196_textbook_kisonihongo;page_75;JP 私たち は 学校 を 10 時 に 出発 し た 。
+205_textbook_kisonihongo;page_76;JP 花子 は 親 に 泣きつい た 。
+296_textbook_kisonihongo;page_87;JP 太郎 は 花子 の ところ に 行っ た 。
+310_textbook_kisonihongo;page_88;JP 私 は 歯 が 痛い 。
+323_textbook_kisonihongo;page_90;JP その 話 は 太郎 の 話 と 一致 する 。
+414_textbook_kisonihongo;page_103;JP 花子 は 繁華街 で バッグ を 奪わ れ た 。
+467_textbook_kisonihongo;page_110;JP 開会 を 宣言 し ます 。
+481_textbook_kisonihongo;page_112;JP 早く 食べ て しまい なさい 。
+642_textbook_kisonihongo;page_130;JP 彼 は あまり うれし そう で は ない 。
+676_textbook_kisonihongo;page_134;JP この 絵 は 写実的 で 、 写真 の よう だ 。
+725_textbook_kisonihongo;page_140;JP 天気 が よく ない な 。
+747_textbook_kisonihongo;page_145;JP きのう 近く で 火事 が あっ た 。
+879_textbook_kisonihongo;page_161;JP この 製品 は あまり いい もの で は ない 。
+1100_textbook_kisonihongo;page_188;JP 言語学 の 研究 の ため に 留学 し た 。
+1173_textbook_kisonihongo;page_196;JP 彼 は その こと を 知っ て い ながら 、 隠し て い た 。
+1196_textbook_kisonihongo;page_198;JP 経済 が 発展 する につれて 、 社会 の 矛盾 も 拡大 し て き た 。
+1206_textbook_kisonihongo;page_203;JP 鈴木さん は 、 計画 が 中止 に なっ た という こと を 後で 知っ た 。
+1256_textbook_kisonihongo;page_211;JP 花子 は 音楽 を 聴き ながら 勉強 し まし た 。
+1330_textbook_kisonihongo;page_223;JP 君 も その 本 買っ た の か 。
+1355_textbook_kisonihongo;page_228;JP 私 は 山田 に 責任者 として 注意 し た 。
+16_textbook_particles;ba_page_4;JP 人 の 約束 は 守ら なければならない 。
+90_textbook_particles;de_page_19;JP わたし は 大学 で 日本語 を 勉強 し て い ます 。
+131_textbook_particles;de_page_26;JP その 新聞 は 学校 で 発行 さ れ た 。
+155_textbook_particles;he_page_33;JP 地震 で 五 階建て の 建物 が 後 へ 傾い た 。
+188_textbook_particles;ga_page_39;JP 僕 は ベスト を つくし た が 、 だめ だっ た 。
+189_textbook_particles;ga_page_39;JP きのう お電話 し まし た が 、 お留守 でし た 。
+211_textbook_particles;hodo_page_44;JP わたし は コンクール に 優勝 し て 、 涙 が でる ほど うれしかっ た 。
+416_textbook_particles;made_page_84;JP 私 は 、 うち から 学校 まで 自転車 で 通っ て い ます 。
+696_textbook_particles;ni_shite_page_140;JP 彼 は 旅行中 にして 、 病 に 倒れ た 。
+742_textbook_particles;no_page_148;JP 彼女 は 社長 の 秘書 です 。
+782_textbook_particles;no_page_154;JP 飛行機 が 飛ん で いる の が 見え ます 。
+861_textbook_particles;o_page_173;JP あした 妹 に 電話 を かけ ます 。
+1151_textbook_particles;ha_page_236;JP ライオン は 猛獣 だ 。
+1247_textbook_particles;yo_page_253;JP おじさん の 家 に 寄っ て いる の かもしれない ね 。
+1250_textbook_particles;yori_page_254;JP この りんご は 、 あの りんご より 大きい です 。
+7_textbook_purple_basic;page_27;JP 伊藤さん が 大学 から 山田さん に Eメール を 出し まし た 。
+42_textbook_purple_basic;page_37;JP いす に 座り まし た 。
+44_textbook_purple_basic;page_38;JP 大学 に い ます 。
+47_textbook_purple_basic;page_38;JP 図書館 で クラス が あり ます 。
+88_textbook_purple_basic;page_43;JP 図書館 で も 勉強 でき ませ ん 。
+97_textbook_purple_basic;page_44;JP きれい です けれども 、 高い です 。
+102_textbook_purple_basic;page_45;JP この 本 は 、 おもしろい です よ 。
+182_textbook_purple_basic;page_76;JP とても 楽しい です 。
+294_textbook_purple_basic;page_111;JP 五 時 の 新幹線 に は 間に合わ ない ので 、 六 時 の に 乗り ます 。
+304_textbook_purple_basic;page_113;JP 待合室 が きれい な の が うれしい 。
+337_textbook_purple_basic;page_125;JP 四 時 まで に もどり ます 。
+380_textbook_purple_basic;page_139;JP 犬 は 交差点 の 近く の 花屋 の 後ろ の ゴミ箱 の 中 に い まし た 。
+388_textbook_purple_basic;page_144;JP 渡辺さん は まじめ な 人 を 好み ます 。
+406_textbook_purple_basic;page_149;JP もっと 便利 な 電話 が ほしい 。
+413_textbook_purple_basic;page_151;JP 国連 で 仕事 を し たい ん です 。
+434_textbook_purple_basic;page_161;JP 私 に は 先生 の 話 が よく 聞こえ ませ ん 。
+455_textbook_purple_basic;page_168;JP 一 日 に 一 回 は Eメール を チェック し ます 。
+642_textbook_purple_basic;page_217;JP 咳 が なおら ない から 、 病院 に 行き ます 。
+645_textbook_purple_basic;page_217;JP 目 が 赤かっ た から 、 目薬 を さし た 。
+648_textbook_purple_basic;page_218;JP 目薬 を さし た 。
+667_textbook_purple_basic;page_226;JP 弟 が 友だち に プレゼント を あげ た 。
+692_textbook_purple_basic;page_230;JP 先生 は 推薦状 を 書い て ください まし た 。
+26_textbook_purple_intermediate;page_13;JP 私 は 、 田中さん の 演奏 を 聞い て い ます 。
+41_textbook_purple_intermediate;page_16;JP ベル が 鳴っ た から コンサートホール に 入り まし た 。
+150_textbook_purple_intermediate;page_47;JP プレゼント が 贈ら れ た 。
+155_textbook_purple_intermediate;page_48;JP 友人 から Eメール が 届い た 。
+222_textbook_purple_intermediate;page_77;JP お客さん は まだ 来 て い なかっ た 。
+224_textbook_purple_intermediate;page_77;JP その 若い カップル は フランス に 行っ て いる 。
+226_textbook_purple_intermediate;page_78;JP 花嫁 が 教会 に 入っ て い ます 。
+238_textbook_purple_intermediate;page_79;JP 電気 を つけ て いる 。
+245_textbook_purple_intermediate;page_80;JP 窓 が 閉まっ て いる 。
+370_textbook_purple_intermediate;page_120;JP 本 を 返し に 図書館 へ 行っ た 。
+383_textbook_purple_intermediate;page_123;JP 日本 へ 行く ために 日本語 を 勉強 し た 。
+401_textbook_purple_intermediate;page_127;JP 日本語 の 学生 は 、 クラス に 来る 前 に 漢字 を 復習 し て くる 。
+454_textbook_purple_intermediate;page_147;JP この 傘 を 借り てもいい でしょ う か 。
+462_textbook_purple_intermediate;page_150;JP 雨 は 降ら な そう だ 。
+612_textbook_purple_intermediate;page_190;JP あの 角 を 曲がる と 、 銀行 が あり ます 。
+674_textbook_purple_intermediate;page_207;JP 最近 の 親 は 、 子供 に 家 の 仕事 を 手伝わ せ ない 。
+733_textbook_purple_intermediate;page_231;JP 家 を 買う ために 、 貯金 し て いる 。
+749_textbook_purple_intermediate;page_233;JP テント を 張っ て から たき火 を たい た 。
+757_textbook_purple_intermediate;page_234;JP 花 の 種 を まい て い ます 。
