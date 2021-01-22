@@ -20,29 +20,68 @@
 |-----------------------|----------------------------------|
 | `${KEYAKI}`           | けやきツリーバンクのパス               |
 | `${ABCTB}`            | 変換して得られるABC Treebankのパス     |
-| `${abctk}`            | ABCT-toolkitのパス                 |
+| `${ABCTB_ML_PREP}`    | パーサの訓練のための下準備（下記参照）における，生成されたデータの出力フォルダ |
+| `${ABCTB_ML}`         | パーサの訓練の結果生成される，モデルとパーサ設定が入っているフォルダ |
+| `${ABCT-toolkit}`     | ABCT-toolkitのパス                 |
 
 ### 前準備
 ABCT-toolkitのために必要な環境があらかじめ整っているものとする．
 ```sh
-cd ${ABCT}
+cd ${ABCT-toolkit}
 poetry env use python3.6
 ```
 
 ### けやきツリーバンクからABC Treebankへの変換
 ```sh 
-cd ${ABCT}
+cd ${ABCT-toolkit}
 ls -d ${KEYAKI}/*.psd | poetry run abctk conv --source filelist --destination ${ABCTB}
 ```
-なお：GOLDとなっている木と，二分木になっていないために不適格である木は，
-ABCT-toolkitの，今回のために特別に修正されたバージョンによって，この段階で既に排除されている．
+
+補足：
+
+- GOLDとして選ばれている木は，パーサの訓練において取り除かれていなければならないので，
+    パイプラインの中の `${ABCT-toolkit}/abctk/ext_scripts/simplify-tag.sed` において生成されないようにした．
+- パーサの訓練において不適格である，子が3つ以上あるような部分木は，
+    （変換のコアである）CCG範疇作成のプログラム `${ABCT-toolkit}/ext_src/abc-hs` の一部を改変することで，
+    排除してある．
+- パーサの訓練において不要である，
+    変換時情報（`#role=a`などの文法役割，`#deriv=unary`などの特殊な派生のマーキング）や，
+    木のID（例：`(ID textbook_particles_xxx）`）は，
+    同上のプログラムを一部改変することで，出力されないようにしている．
+- 空範疇である語彙項目（例： `... (X (Y *pro*) (Y\X ...)) ...` は，
+    パーサの訓練の前に削除する（`... (X#unary）必要があるが，失念した．
+    このため，パーサの訓練の前準備の段階で，[depccg](https://github.com/masashi-y/depccg/blob/9d375edf9b74e22f8d7dcdf78dab5fcbad170e85/depccg/tools/ja/keyaki_reader.py#L192)
+    によって，少なくない木が，不必要にまるごと捨てられてしまった．
 
 ### ABCパーサの訓練
-- extra packageのインストール
-- proを消す
-- IDを消す
-- 訓練セットの準備
-- 訓練
+#### 追加パッケージのインストール
+パーサの訓練でGPUを使用をするが，そのためにはドライバーをインストールする必要がある．
+2021年1月時点では，次のQiita記事が参考になる．
+
+- [NVIDIA Docker って今どうなってるの？ (19.11版)](https://qiita.com/ksasaki/items/b20a785e1a0f610efa08)
+- [Ubuntu 20.04へのCUDAインストール方法](https://qiita.com/yukoba/items/c4a45435c6ee5d66706d)
+
+パーサの訓練に関連するPythonパッケージを追加する．
+```sh
+cd ${abctk}
+poetry install --extras "ml"
+```
+
+#### 訓練
+パーサの訓練の下準備をし，データを準備する．
+```sh
+cd ${abctk}
+cat ${ABCTB}/*.psd \
+    | sed -e '/^\s*$/d' \
+    | poetry run abctk ml prepare --destination ${ABCTK_ML_PREP}
+```
+注：上の変換プログラムにおいて，不必要な空行が木と木の間に入ってしまっており，（上のsedの行で）削除しなければ不具合が生じる．
+
+訓練をする．
+
+```sh
+poetry run abctk ml train ${ABCTK_ML_PREP} --destination ${ABCTB_ML}
+```
 
 ### ABCパーサの評価1：（正解であるところの）ABC TreebankのGOLD木の意味表示の生成
 
