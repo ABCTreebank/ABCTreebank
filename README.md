@@ -13,7 +13,7 @@ ABCツリーバンクとは、理論言語学と自然言語処理の両分野�
 明記されている場合を除き、全てのコンテンツは Creative Commons Attribution 4.0 International の下でライセンスされています。
 [![CC4](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)\
 ただし、以下に挙げる有料の言語資源に基づくデータに関しては、
-ツリーの終端ノードにある語を見えなくしています。\
+ツリーの終端ノードにある語を見えなくしています。
 復元のためにはそれぞれのライセンスが必要です。
 
 - [CD-毎日新聞'95データ集](https://www.nichigai.co.jp/sales/mainichi/mainichi-data.html)
