@@ -78,4 +78,4 @@ A license is required to restore words for each of the resources.
 Our appreciation goes to Masashi Yoshikawa (Tohoku University) for his help and constructive suggestions. This work is supported by JSPS KAKENHI GRANTs 18K00523 and 15H03210, and the NINJAL collaborative research project ‘Cross-linguistic Studies of Japanese Prosody and Grammar’.
 
 ## 履歴/History
-- 2021/03/XX version 1.0のリリース
+- 2021/03/10 version 1.01のリリース
