@@ -61,6 +61,11 @@ ls -d ${KEYAKI}/*.psd | poetry run abctk conv --source filelist --destination ${
 - [NVIDIA Docker って今どうなってるの？ (19.11版)](https://qiita.com/ksasaki/items/b20a785e1a0f610efa08)
 - [Ubuntu 20.04へのCUDAインストール方法](https://qiita.com/yukoba/items/c4a45435c6ee5d66706d)
 
+`$PATH`にcuda関連のものをあらかじめ入れないと，pycudaの（pipなどを通しての）インストールが上手くいかない．
+```sh
+export PATH=/usr/local/cuda/bin:${PATH}
+```
+
 パーサの訓練に関連するPythonパッケージを追加する．
 ```sh
 cd ${abctk}
@@ -77,10 +82,10 @@ cat ${ABCTB}/*.psd \
 ```
 注：上の変換プログラムにおいて，不必要な空行が木と木の間に入ってしまっており，（上のsedの行で）削除しなければ不具合が生じる．
 
-訓練をする．
-
+訓練をする．`nohup ... &` 構文を用いると，バックグラウンドで学習が始まり，
+（HUPシグナルの無視によって）シェルから退出しても学習が続けられる．
 ```sh
-poetry run abctk ml train ${ABCTK_ML_PREP} --destination ${ABCTB_ML}
+nohup poetry run abctk ml train ${ABCTK_ML_PREP} --destination ${ABCTB_ML} &
 ```
 
 ### ABCパーサの評価1：（正解であるところの）ABC TreebankのGOLD木の意味表示の生成
@@ -97,21 +102,25 @@ poetry run abctk ml train ${ABCTK_ML_PREP} --destination ${ABCTB_ML}
 文についての情報
 
 
-```
-意味割り当ての全件数
-$ cat semantics_abc.yaml | grep 'category' | grep -v "child" | grep -v "#" | wc -l
+```sh
+# 意味割り当ての全件数
+cat semantics_abc.yaml | grep 'category' | grep -v "child" | grep -v "#" | wc -l
 176
-unary規則に対する割り当ての数
-$ cat semantics_abc.yaml | grep 'unary' | grep -v "#" | wc -l
+
+# unary規則に対する割り当ての数
+cat semantics_abc.yaml | grep 'unary' | grep -v "#" | wc -l
 46
-base (lemma)に対する割り当ての数
-$ cat semantics_abc.yaml | grep 'base' | grep -v "#" | wc -l
+
+# base (lemma)に対する割り当ての数
+cat semantics_abc.yaml | grep 'base' | grep -v "#" | wc -l
 22
-pos に対する割り当ての数
-$ cat semantics_abc.yaml | grep 'pos' | grep -v "#" | grep -v "semantics" | wc -l
+
+# pos に対する割り当ての数
+cat semantics_abc.yaml | grep 'pos' | grep -v "#" | grep -v "semantics" | wc -l
 43
-単語に対する割り当ての数
-22 + 46 = 68
-カテゴリに対する割り当ての数
-176 - (46 + 68) = 62
+
+# 単語に対する割り当ての数
+# 22 + 46 = 68
+# カテゴリに対する割り当ての数
+# 176 - (46 + 68) = 62
 ```
