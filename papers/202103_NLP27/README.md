@@ -82,11 +82,30 @@ cat ${ABCTB}/*.psd \
 ```
 注：上の変換プログラムにおいて，不必要な空行が木と木の間に入ってしまっており，（上のsedの行で）削除しなければ不具合が生じる．
 
+生成されたもののうち，`${ABCTK_ML_PREP}/config_parser_abc.json` はパーサの動作に必要なものである．
+
 訓練をする．`nohup ... &` 構文を用いると，バックグラウンドで学習が始まり，
 （HUPシグナルの無視によって）シェルから退出しても学習が続けられる．
 ```sh
 nohup poetry run abctk ml train ${ABCTK_ML_PREP} --destination ${ABCTB_ML} &
 ```
+
+### 解析
+パーサの設定情報を，`${ABCTK_ML_PREP}` の中から取り出して用意する．
+```sh
+# cpやlsでも可
+mv ${ABCTK_ML_PREP}/config_parser_abc.json ${ABCTB_ML}
+```
+学習して得られたモデルは，`${ABCTB_ML}/model.tar.gz` である．
+
+解析すべき文を行で区切って，STDINに流して，パーサにかけると，それらは統語解析される．
+```sh
+cat SOURCE.txt | poetry run abctk parse --model ${ABCTB_ML} --format ABCT
+```
+
+* オプション`-b <batchsize>`：バッチ処理の大きさ
+* オプション`-n/-nt`：Janomeによる形態素解析を利用するか否か
+* オプション`--format <format>`：出力のフォーマット
 
 ### ABCパーサの評価1：（正解であるところの）ABC TreebankのGOLD木の意味表示の生成
 
