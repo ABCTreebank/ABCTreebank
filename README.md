@@ -25,9 +25,9 @@ We offer several types of ABC Treebank for different purposes.
 - The binarized edition (binconj): Conjunction structures are binarized.
 
 ## マニュアル/Manual
-ABCツリーバンクで枠組みとされているABC文法や注目する現象については[マニュアル](https://github.com/kmineshima/abctreebank/wiki/manual)を参照してください。
+ABCツリーバンクで枠組みとされているABC文法や注目する現象については[Wiki](https://github.com/ABCTreebank/ABCTreebank/wiki)にあるマニュアルを参照してください。
 
-See [the manual](https://github.com/kmineshima/abctreebank/wiki/manualfor) for an overview of ABC Grammar as the framework of ABC Treebank
+See manuals in [the wiki](https://github.com/ABCTreebank/ABCTreebank/wiki) for an overview of ABC Grammar as the framework of ABC Treebank
 as well as the phenomena it focuses on.
 
 ## ライセンス/Licenses
