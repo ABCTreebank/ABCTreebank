@@ -4,7 +4,7 @@
 | 名前            | リンク | 備考 |
 |----------------|-------|-----|
 | けやきツリーバンク  | [kmineshima/Keyaki, master@66285c1](https://github.com/kmineshima/Keyaki/commit/66285c1339363234886231c2e77d7560e318c46a) | 復号済み，非公開 |
-| ABCT-toolkit   | [ABCTreebank/ABCT-toolkit, mod/NLP27@7af8848](https://github.com/ABCTreebank/ABCT-toolkit/commit/7af884819bcd784c59aaacb5cc74c245b2002851)  | |
+| ABCT-toolkit   | [ABCTreebank/ABCT-toolkit, mod/NLP27@202f366](https://github.com/ABCTreebank/ABCT-toolkit/commit/202f366c7d8bc1637e9f8f60fd1d23be91a9f8e0)  | |
 | ccg2lambda     | [kmineshima/ABCTreebank, master@e891828](https://github.com/kmineshima/abctreebank/commit/e8918282f1e8a94160fb7ee60873bd5bc40cf6e1) | 未公開，スクリプトは`ccg2lambda`フォルダにある |
 
 ## 説明
@@ -76,8 +76,8 @@ poetry install --extras "ml"
 パーサの訓練の下準備をし，データを準備する．
 ```sh
 cd ${abctk}
-cat ${ABCTB}/*.psd \
-    | sed -e '/^\s*$/d' \
+cat ${ABCTB}/treebank/*.psd \
+    | sed -e '/^\s*$/d' -e 's/^((/(/g' -e 's/(ID .*))//g' \
     | poetry run abctk ml prepare --destination ${ABCTK_ML_PREP}
 ```
 注：上の変換プログラムにおいて，不必要な空行が木と木の間に入ってしまっており，（上のsedの行で）削除しなければ不具合が生じる．
